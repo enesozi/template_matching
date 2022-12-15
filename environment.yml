@@ -1,0 +1,8 @@
+name: temp
+channels:
+  - defaults
+dependencies:
+  - pip:
+    - numpy==1.23.5
+    - opencv-python==4.6.0.66
+    - matplotlib==3.6.2
